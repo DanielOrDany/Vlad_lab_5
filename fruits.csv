@@ -1,0 +1,1 @@
+name, color, price, availability, vitamin, weight = (Blueberry,BLUE,12.0,true,A,0.175)            |            name, color, price, availability, vitamin, weight = (Cherry,RED,22.0,false,D,0.205)            |            name, color, price, availability, vitamin, weight = (C2,RED,2.0,true,B,0.235)
